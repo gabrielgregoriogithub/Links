@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&family=Roboto:wght@100;300;500;700;900&display=swap');
 
+header {
+  background-image: url("icon (1).ico");
+}
+
 body{
   background-color: #3C63EE;
   display: flex;
